@@ -26,7 +26,7 @@ export const projects = [
       "A regulated marketplace for on-demand septic/pit-latrine services: residents submit requests, licensed operators claim and dispatch them to their own drivers, and a regulatory authority oversees licensing and service quality across the network — with live location, photo verification, and payment tracking.",
     tech: ["JavaScript", "HTML", "REST API"],
     github: "https://github.com/jonathansakafu/sanitation-tracking-system",
-    live: null,
+    live: "https://backend-production-344e.up.railway.app",
     accent: "#f472b6",
   },
   {
