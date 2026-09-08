@@ -36,7 +36,7 @@ export const projects = [
       "Role-based dashboards for Admin, Teacher, Student, and Parent covering attendance, assignments, exam results, fees, and timetables, with a bilingual English/Swahili interface and an FAQ chatbot.",
     tech: ["Next.js 14", "Prisma", "PostgreSQL", "NextAuth"],
     github: "https://github.com/jonathansakafu/Academic-Management-System",
-    live: null,
+    live: "https://academic-management-system-xi.vercel.app",
     accent: "#a78bfa",
   },
 ];
