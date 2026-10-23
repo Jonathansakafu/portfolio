@@ -1,5 +1,15 @@
 export const projects = [
   {
+    name: "Remindora",
+    tagline: "Cross-platform productivity & reminders",
+    description:
+      "Tasks, calendar, habits, focus sessions and priority-aware reminders that sync in real time across web, native desktop and Android. Includes collaboration, QR/email device linking, push notifications via Firebase, and a background job pipeline that decides when and how to remind you.",
+    tech: ["Next.js", "NestJS", "PostgreSQL", "Redis", "Expo / React Native", "Tauri"],
+    github: "https://github.com/jonathansakafu/Remindora",
+    live: "https://web-production-d1f465.up.railway.app",
+    accent: "#22d3ee",
+  },
+  {
     name: "TradeMind AI",
     tagline: "AI-powered forex & crypto trading journal",
     description:
